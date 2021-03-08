@@ -5,8 +5,8 @@ Deployed @ https://mighty-mesa-87893.herokuapp.com/
 
 
 App Uses:
-Authentication with Passport.js
-Mongoose, RESTful Routing
+Authentication with Passport.js,
+Mongoose, RESTful Routing,
 Node, Express, MongoDB (Atlas), Heroku
 
 ![image](https://user-images.githubusercontent.com/66824231/110246495-b9c13600-7f5f-11eb-9219-03e0f6ce448f.png)
